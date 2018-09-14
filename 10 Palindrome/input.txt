@@ -1,0 +1,7 @@
+6
+ab
+aba
+abb
+aa
+a
+radar
