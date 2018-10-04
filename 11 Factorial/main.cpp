@@ -8,6 +8,7 @@ int factorial(unsigned int n) {
     return n * factorial(n - 1);
 }
 
+
 int main() {
     ifstream in("input.txt");
     int test_case;
